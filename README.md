@@ -1,6 +1,9 @@
 # BladeTemplatingExercise
+
 INFO 3305 WEB APPLICATION DEVELOPMENT SEC 2
+
 Name: AININ SOFIYA BINTI AMIR
+
 Matric no: 1814370
 
 
